@@ -1,3 +1,0 @@
-require "./dice.rb"
-
-play
